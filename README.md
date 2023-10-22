@@ -3,7 +3,7 @@ Analyzing the Impact of Recession on Automobile Sales
 
 Let's say you have been hired by an automobile company as a data scientist. Your first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. You will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis.
 
-#About The Dataset
+# About The Dataset
 
 The dataset includes the following variables:
 
