@@ -21,3 +21,5 @@ Competition: The measure of competition in the market, such as the number of com
 Month: Month of the observation extracted from Date.
 Year: Year of the observation extracted from Date.
 By examining various factors mentioned above from the dataset, you aim to gain insights into how recessions impact automobile sales for your company.
+
+![dashboard](RecessionReportgraphs.png)
